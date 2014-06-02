@@ -1,4 +1,4 @@
-VHData
+VHBlog
 ======
 
-Data for Variance Hammer
+Data and analysis code for posts on www.variancehammer.com
